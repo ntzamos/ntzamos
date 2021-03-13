@@ -9,7 +9,7 @@
 ### ⚙️ Github Analytics
 
 <p align="left">
-<a href="https://github.com/GeoRouv">
+<a href="https://github.com/ntzamos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntzamos&layout=compact&hide=makefile&langs_count=8"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ntzamos&count_private=true&show_icons=true&hide=issues,contribs"/>
 </a>
