@@ -3,7 +3,7 @@
 **CTO at [Pandas.io](https://pandas.io)**
 
 - [LinkedIn](https://www.linkedin.com/in/nikos-tzamos)
-- [ntzamos@gmail.com](mailto:ntzamos@gmail.com)
+- [Website](https://profile.nicktzamos.com)
 
 ---
 
